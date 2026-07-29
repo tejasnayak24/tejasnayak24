@@ -1,36 +1,75 @@
-<h1 align="center">Hi 👋, I'm Tejas Nayak</h1>
+<div align="center">
+
+# Hi, I'm Tejas Nayak 👋
+
+### Full Stack Developer
+
+### *Learning. Building. Improving. Repeating.*
+
+<br>
+
+<img src="./pixel-room.gif" alt="Pixel Room" width="100%"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=tejasnayak24&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/tejasnayak24?label=Followers&style=for-the-badge&color=8A2BE2"/>
+
+</div>
 
 ---
 
-<h2 align="center">
-Full Stack Developer | AI Enthusiast
-</h2>
+# 🌐 Connect with Me
 
-<p align="center">
-<img src="YOUR_GIF_LINK" width="750">
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=tejasnayak24&label=Profile%20views&color=0e75b6&style=flat">
-<a href="https://github.com/tejasnayak24?tab=followers">
-<img src="https://img.shields.io/github/followers/tejasnayak24?label=Follow&style=social">
+<a href="https://www.linkedin.com/in/tejas-nayak-a5b993285" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
-</p>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/tejastnayak" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/tejasnayak24" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://reddit.com/user/ViolinistPure5981" target="_blank">
+<img src="https://cdn.simpleicons.org/reddit/FF4500" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:tejastnayak@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="55"/>
+</a>
+
+</div>
 
 ---
 
-# 📬 Connect with me
+# 📊 GitHub Stats
 
-<p align="left">
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<div align="center">
 
-<a href="YOUR_TWITTER">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejasnayak24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<a href="YOUR_GMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
+<img width="48%" src="https://streak-stats.demolab.com?user=tejasnayak24&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejasnayak24&theme=tokyo-night&hide_border=true"/>
+
+</div>
