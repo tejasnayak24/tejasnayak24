@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi, I'm Tejas Nayak 👋
-
-### Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=4000&pause=1500&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tejas+Nayak+%F0%9F%91%8B;Full+Stack+Developer;Building+Scalable+Applications;Learning+Something+New+Every+Day" alt="Typing SVG" />
 
 ### *Learning. Building. Improving. Repeating.*
 
 <br>
 
-<img src="./pixel-room.gif" alt="Pixel Room" width="100%"/>
+<img src="./pixel-room.gif" width="500" alt="Pixel Room"/>
 
 <br><br>
 
@@ -20,55 +18,43 @@
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tejas-nayak-a5b993285" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://www.linkedin.com/in/tejas-nayak-a5b993285">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/tejastnayak" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+<a href="https://instagram.com/tejastnayak">
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/tejasnayak24" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<a href="https://github.com/tejasnayak24">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://reddit.com/user/ViolinistPure5981" target="_blank">
-<img src="https://cdn.simpleicons.org/reddit/FF4500" height="55"/>
+<a href="https://reddit.com/user/ViolinistPure5981">
+<img src="https://cdn.simpleicons.org/reddit/FF4500" width="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:tejastnayak@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="55"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
 </a>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejasnayak24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tejasnayak24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=tejasnayak24&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=tejasnayak24&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejasnayak24&theme=tokyo-night&hide_border=true"/>
 
