@@ -50,12 +50,8 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tejasnayak24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejasnayak24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=tejasnayak24&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejasnayak24&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=tejasnayak24&theme=tokyonight&hide_border=true"/>
 
 </div>
