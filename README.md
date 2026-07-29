@@ -3,7 +3,7 @@
 ---
 
 <h2 align="center">
-Backend Developer | AI Enthusiast
+Full Stack Developer | AI Enthusiast
 </h2>
 
 <p align="center">
