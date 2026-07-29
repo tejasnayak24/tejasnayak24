@@ -1,46 +1,36 @@
 <h1 align="center">Hi 👋, I'm Tejas Nayak</h1>
 
-<h3 align="center">Information Science Engineering Student | Backend Developer | AI Enthusiast</h3>
+---
+
+<h2 align="center">
+Backend Developer | AI Enthusiast
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+Enthusiast;Hackathon+Finalist;Open+Source+Learner" />
+<img src="YOUR_GIF_LINK" width="750">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tejasnayak24&label=Profile%20views&color=0e75b6&style=flat">
+<a href="https://github.com/tejasnayak24?tab=followers">
+<img src="https://img.shields.io/github/followers/tejasnayak24?label=Follow&style=social">
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 📬 Connect with me
 
-- 🎓 B.E. Information Science Engineering @ NMAMIT
-- 🏆 Qualcomm Snapdragon Multiverse Hackathon Finalist
-- 💻 Backend Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently learning System Design & DevOps
+<p align="left">
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
----
+<a href="YOUR_TWITTER">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
 
-## 🛠 Tech Stack
-
-Python • Java • JavaScript • Node.js • Express • React • MongoDB • MySQL • Flask • Git • Docker
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn
-- Portfolio
-- Email
-
-<!--
-**tejasnayak24/tejasnayak24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="YOUR_GMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
